@@ -24,6 +24,12 @@ Events
 * fullscreenchange
 * fullscreenerror
 
+Browser support
+=
+
+* Firefox (`moz`)
+* Webkit (`webkit`)
+
 How to use
 =
 
