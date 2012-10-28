@@ -1,4 +1,4 @@
-Fullscreen polyfill
+Fullscreen prefixer
 =
 
 ... is a small libary to use fullscreen API without prefixes and using the W3C specification.
